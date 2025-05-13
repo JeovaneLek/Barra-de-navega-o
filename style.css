@@ -20,13 +20,13 @@ nav{
 
 a{
     text-decoration: 0;
-    color: #ffffff;
+    color: #F8C0C8;
     padding: 10px;
     font-size: 20px;
 }
 
 a:hover{
-    color: #FADADD;
+    color: #F8C0C8;
     background-color: #8600BE;
     border-radius: 10px;
 }
