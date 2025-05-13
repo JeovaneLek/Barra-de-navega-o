@@ -27,6 +27,6 @@ a{
 
 a:hover{
     color: red;
-    background-color: green;
+    background-color: #0080ff;
     border-radius: 10px;
 }
